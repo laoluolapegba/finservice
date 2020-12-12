@@ -1,0 +1,5 @@
+D:\LaoluOlapegba\MyMachine\MyDotnet\FinSvc\bin\FinSvc.dll
+D:\LaoluOlapegba\MyMachine\MyDotnet\FinSvc\bin\FinSvc.pdb
+D:\LaoluOlapegba\MyMachine\MyDotnet\FinSvc\obj\Debug\ResolveAssemblyReference.cache
+D:\LaoluOlapegba\MyMachine\MyDotnet\FinSvc\obj\Debug\FinSvc.dll
+D:\LaoluOlapegba\MyMachine\MyDotnet\FinSvc\obj\Debug\FinSvc.pdb
